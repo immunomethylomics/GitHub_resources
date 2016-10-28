@@ -2,7 +2,7 @@
 Resources and training on how to use Git and GitHub
 
 ## Free Student Pack
-Students get free accounts called **Student Developer Pack**. This has a lot of great features, but the most important one is the ability to make **Free** private repositories. This allows for work-in-progress version control without exposing it to the outside world pre-publication. 
+Students get free accounts called **Student Developer Pack**. This has a lot of great features, but the most important one is the ability to make **free** private repositories. This allows for work-in-progress version control without exposing it to the outside world pre-publication. 
 
 > [GitHub Student Developer Pack](https://education.github.com/pack)
 
