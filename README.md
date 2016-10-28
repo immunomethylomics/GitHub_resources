@@ -15,6 +15,7 @@ For anyone who doesn't want to use command line GitHub, here is a desktop applic
 There are a ton of videos and tutorial material out there. Here are some that I found helpful as we figure out the precise requirements for the use of this tool we can add content.
 
 > [What is GitHub?] (https://www.youtube.com/watch?v=VUaBfYCmJls)
+
 > [Using GitHub] (https://www.youtube.com/watch?v=E8TXME3bzNs)
 
 Here is the "Hello world" of GitHub. This is a tutorial to take you through the basics of using GitHub. 
