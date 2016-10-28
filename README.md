@@ -27,8 +27,17 @@ Here is the beginners guide to GitHub. It start by walking you through the basic
 > [GitHub Beginners Guide](https://www.pluralsight.com/blog/software-development/github-tutorial)
 
 ### Writing in Markdown 
+
+General Markdown Syntax
+
 > [Markdown syntax] (https://en.support.wordpress.com/markdown-quick-reference/)
+
+GitHub's take on what you need to know
+
 > [GitHubs Markdown Page] (https://help.github.com/articles/basic-writing-and-formatting-syntax/)
+
+Markdown Tutorial Video Series _each one is only a few min long_
+
 > [Markdown Turorial] (https://www.youtube.com/playlist?list=PLu8EoSxDXHP7v7K5nZSMo9XWidbJ_Bns3) 
 
   >>  _I thought the intro music was  funny especially if you are watching the videos at 1.5-2x speed_
